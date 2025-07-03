@@ -3,5 +3,5 @@
 ## Welcome to _Software_ Engineering Projects!
 -------
 
-[!Tomolor(https://pixelprowess.com/i/stargazers/tomolor.png)] (https://raybo.org)
+[!Tomolor(https://pixelprowess.com/i/stargazers/tomolor.png)] 
 
