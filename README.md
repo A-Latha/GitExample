@@ -1,2 +1,5 @@
-# Hello GitHub!
-## Welcome to Software Engineering Projects!
+# Hello ***GitHub***!
+***
+## Welcome to _Software_ Engineering Projects!
+-------
+
