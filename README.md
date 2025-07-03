@@ -7,7 +7,7 @@
 
 Version control is essential `skills` for developers to master.
 
-```
+```js
 let x = 0.5;
 console.log(x);
 ```
